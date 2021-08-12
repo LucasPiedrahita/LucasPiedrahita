@@ -1,5 +1,7 @@
-### Hi there 👋
+### 👋 Hi there I am a developer working on
+:computer:  Web development with HTML, CSS, JavaScript, and React
 
+:bar_chart: Data ETL and analysis with Python
 <!--
 **LucasPiedrahita/LucasPiedrahita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
