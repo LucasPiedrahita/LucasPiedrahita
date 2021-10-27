@@ -1,5 +1,5 @@
 ### 👋 Hi there I am a developer working on
-:computer:  Web development with HTML, CSS, JavaScript, and React
+:computer:  Web development with React, Javascript, HTML, and CSS
 
 :bar_chart: Data ETL and analysis with Python
 <!--
